@@ -1,7 +1,7 @@
-# Weather App
+# Anime Quote App
 
-![Starting page design preview for the Weather App](./design/Screenshot1.png)
-This is a code practice for improving my coding skills by building realistic projects.
+![Starting page design preview for the Anime Quote App](./design/Screenshot1.png)
+This is a code practice for improving my coding skills by building realistic projects and using Animechan API.
 
 ## Table of contents
 
@@ -21,11 +21,16 @@ This is a code practice for improving my coding skills by building realistic pro
 
 Users should be able to:
 
-- See the temperature and other details by entering the city name.
+- See the random quote and other details by clicking on the button.
+- See the random quote and other details by entering the anime name.
+- See the random quote and other details by entering the anime character.
 
 ### Screenshot
 
-![](./design/Screenshot2.png)
+![](./design/GetRandomQuote.png)
+![](./design/GetQuotebyAnimeName.png)
+![](./design/GetQuotebyAnimeCharacter.png)
+![](./design/AnimeNames.png)
 
 ### Links
 
@@ -44,7 +49,7 @@ Users should be able to:
 
 I learned alot from this project.
 I learned how to use bootstrap for designing.
-I learned how to fetch the details using Rapid API for displaying the weather details.
+I learned how to fetch the details using Animechan API for displaying the anime quote details.
 
 ## Author
 
@@ -52,4 +57,4 @@ I learned how to fetch the details using Rapid API for displaying the weather de
 
 ## Acknowledgments
 
-I would like to thanks StackOverflow as they helped me to solve mostly all my errors I encountered making this project amd Bootstrap for the designing part.
+I would like to thanks StackOverflow as they helped me to solve mostly all my errors I encountered making this project and Bootstrap for the designing part.
