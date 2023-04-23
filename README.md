@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github URL]()
-- Live Site URL: [Live site]()
+- Solution URL: [Github URL](https://github.com/Nitesh-bit/Anime-Quote-App)
+- Live Site URL: [Live site](https://nitesh-bit.github.io/Anime-Quote-App/)
 
 ## My process
 
